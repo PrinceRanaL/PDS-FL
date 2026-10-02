@@ -1,0 +1,98 @@
+[
+  {
+    "n": 29,
+    "remainder_bits": 16,
+    "rebuilds": 0,
+    "theoretical_bound": 0.00044241036655146004,
+    "attacks": 300000,
+    "accepted": 1,
+    "empirical_fpr": 3.3333333333333333e-06,
+    "wilson_low": 5.884002899398969e-07,
+    "wilson_high": 1.888335036780235e-05,
+    "all_legit_accepted": true
+  },
+  {
+    "n": 64,
+    "remainder_bits": 16,
+    "rebuilds": 0,
+    "theoretical_bound": 0.0009760932614082396,
+    "attacks": 300000,
+    "accepted": 6,
+    "empirical_fpr": 2e-05,
+    "wilson_low": 9.166085473058503e-06,
+    "wilson_high": 4.363857167903845e-05,
+    "all_legit_accepted": true
+  },
+  {
+    "n": 128,
+    "remainder_bits": 17,
+    "rebuilds": 1,
+    "theoretical_bound": 0.0009760895396973002,
+    "attacks": 300000,
+    "accepted": 1,
+    "empirical_fpr": 3.3333333333333333e-06,
+    "wilson_low": 5.884002899398969e-07,
+    "wilson_high": 1.888335036780235e-05,
+    "all_legit_accepted": true
+  },
+  {
+    "n": 256,
+    "remainder_bits": 18,
+    "rebuilds": 2,
+    "theoretical_bound": 0.0009760876788561523,
+    "attacks": 300000,
+    "accepted": 1,
+    "empirical_fpr": 3.3333333333333333e-06,
+    "wilson_low": 5.884002899398969e-07,
+    "wilson_high": 1.888335036780235e-05,
+    "all_legit_accepted": true
+  },
+  {
+    "n": 512,
+    "remainder_bits": 19,
+    "rebuilds": 3,
+    "theoretical_bound": 0.0009760867484390756,
+    "attacks": 300000,
+    "accepted": 1,
+    "empirical_fpr": 3.3333333333333333e-06,
+    "wilson_low": 5.884002899398969e-07,
+    "wilson_high": 1.888335036780235e-05,
+    "all_legit_accepted": true
+  },
+  {
+    "n": 1024,
+    "remainder_bits": 20,
+    "rebuilds": 4,
+    "theoretical_bound": 0.0009760862832314254,
+    "attacks": 300000,
+    "accepted": 0,
+    "empirical_fpr": 0.0,
+    "wilson_low": 0.0,
+    "wilson_high": 1.2805169358871303e-05,
+    "all_legit_accepted": true
+  },
+  {
+    "n": 2048,
+    "remainder_bits": 21,
+    "rebuilds": 5,
+    "theoretical_bound": 0.0009760860506278224,
+    "attacks": 300000,
+    "accepted": 0,
+    "empirical_fpr": 0.0,
+    "wilson_low": 0.0,
+    "wilson_high": 1.2805169358871303e-05,
+    "all_legit_accepted": true
+  },
+  {
+    "n": 4096,
+    "remainder_bits": 22,
+    "rebuilds": 6,
+    "theoretical_bound": 0.0009760859343260764,
+    "attacks": 300000,
+    "accepted": 0,
+    "empirical_fpr": 0.0,
+    "wilson_low": 0.0,
+    "wilson_high": 1.2805169358871303e-05,
+    "all_legit_accepted": true
+  }
+]

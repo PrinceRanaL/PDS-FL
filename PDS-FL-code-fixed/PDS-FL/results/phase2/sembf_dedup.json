@@ -1,0 +1,16 @@
+{
+  "n_clients": 29,
+  "rounds": 100,
+  "bit_array_size": 4096,
+  "num_hashes": 4,
+  "duplicates_submitted": 2924,
+  "duplicates_accepted_false_negatives": 0,
+  "detection_rate": 1.0,
+  "honest_first_submissions": 2900,
+  "honest_first_rejected_false_positives": 0,
+  "honest_false_positive_rate": 0.0,
+  "honest_fpr_wilson95": [
+    -1.0827678411274096e-19,
+    0.0013229371739835946
+  ]
+}
